@@ -1,5 +1,4 @@
 document.querySelector("button").onclick = () => {
-  const medida = document.querySelector("#medida").value;
   const temp = parseFloat(document.querySelector("#temp").value);
   const opcao = document.querySelector("#medida").value;
     
